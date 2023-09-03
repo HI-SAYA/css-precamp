@@ -10,8 +10,8 @@ const player = [
     {number: 9, name: "소월"},
     {number: 10, name: "진주"},
     ]
-undefined
+// undefined
 player[0].number + " " + player[0].name
-'1 손흥민'
+// '1 손흥민'
 player[1].number + " " + player[1].name
-'2 박미림'
+// '2 박미림'
